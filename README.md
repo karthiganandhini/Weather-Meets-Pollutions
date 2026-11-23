@@ -42,20 +42,19 @@ and PM2.5 levels.
 Findings will be updated using the actual
 results obtained from the analysis.
 
-
 ## Data Visualizations
 
 ### 1. Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ### 2. PM2.5 Distribution
-![PM2.5 Distribution](./pm25_distribution.png)
+![PM2.5 Distribution](pm25_distribution.png)
 
 ### 3. Top 10 Polluted Cities
-![Top 10 Polluted Cities](./top_10_cities.png)
+![Top 10 Polluted Cities](top_10_cities.png)
 
 ### 4. PM2.5 Boxplot
-![PM2.5 Boxplot](./pm25_boxplot.png)
+![PM2.5 Boxplot](pm25_boxplot.png)
 
 ### 5. Pairplot
 ![Pairplot](pairplot.png)
