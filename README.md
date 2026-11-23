@@ -55,10 +55,13 @@ and PM2.5 levels.
 
 ## Conclusion
 
-This project demonstrates how Python libraries
-can be used to explore environmental data,
-identify patterns, and communicate insights
-through data visualization.
+This project helped me gain practical experience in data analysis using Python.
+
+I used Pandas for data cleaning and analysis, and Matplotlib and Seaborn for data visualization.
+
+Through this project, I explored air quality patterns across Indian cities and analyzed the relationship between weather conditions and PM2.5 levels.
+
+This project improved my skills in data preprocessing, exploratory data analysis, and extracting meaningful insights from real-world datasets.
 
 ## Author
 
