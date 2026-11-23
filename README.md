@@ -39,8 +39,11 @@ and PM2.5 levels.
 
 ## Key Findings
 
-Findings will be updated using the actual
-results obtained from the analysis.
+- Analyzed air quality and weather data across 50 Indian cities.
+- Processed 78,500 records for the analysis.
+- Delhi recorded the highest average PM2.5 level.
+- Leh recorded the lowest average PM2.5 level.
+- January recorded the highest average PM2.5 level.
 
 ### 1. Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)
